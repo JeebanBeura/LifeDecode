@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Build Files
+dist/
+build/
+out/
+coverage/
+
+# Temporary Files
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# SSH and Credentials
+.ssh/
+*.pem
+*.crt
+*.key
+
+# Deployment Files
+deploy/
+*.tar.gz
+*.zip
+
+# Database Files
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+
+# System-Specific Files
+.vscode/
+.idea/
+*.bak
